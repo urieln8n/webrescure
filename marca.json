@@ -1,0 +1,13 @@
+{
+  "nombre": "WEB RESCUE",
+  "colores": {
+    "fondo": "#080e18",
+    "acento": "#70d6ff",
+    "texto": "#edf4ff"
+  },
+  "tipografias": {
+    "titulares": "system-ui",
+    "cuerpo": "system-ui"
+  },
+  "idioma": "es-ES"
+}
