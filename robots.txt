@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://webrescure.fa-andres18.workers.dev/sitemap.xml
